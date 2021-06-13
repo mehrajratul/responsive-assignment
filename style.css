@@ -1,0 +1,35 @@
+header{
+    background-color: #fafadcd7;
+}
+.intro-01{
+    font-weight: 700;
+    font-size: 50px;
+    color: #363958;
+}
+.intro-02{
+    font-weight: 700;
+    font-size: 50px;
+    color: #76c27e;
+}
+.button{
+    background-color: #2c1a4d;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.button img{
+    width: 25px;
+    height: 25px;
+}
+.btn-text{
+    color: white;
+}
+        /* second section */
+
+.box-w-shadow{
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+    height: 135px;
+    width: 490px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px rgb(168, 163, 163);
+}
