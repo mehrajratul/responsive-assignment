@@ -25,11 +25,16 @@ header{
 }
         /* second section */
 
-.box-w-shadow{
-    margin: 5px;
-    background-color: rgb(255, 255, 255);
-    height: 135px;
-    width: 490px;
-    border-radius: 10px;
-    box-shadow: 10px 10px 40px rgb(168, 163, 163);
+h3{
+    font-size: 20px;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.price-tag{
+    color: #76c27e;
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 700;
 }
